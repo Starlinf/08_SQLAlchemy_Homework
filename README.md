@@ -1,3 +1,4 @@
 # Hawaii Climate Analysis
 
-I've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with my trip planning, I need to do some climate analysis on the area.
+Preforming a climate analysis on the Hawaii area over a 12 month period using SQLAlchemy ORM queries, Pandas, and Matplotlib.
+
